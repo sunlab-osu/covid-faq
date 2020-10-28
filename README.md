@@ -5,6 +5,11 @@ This repository contains the dataset for paper ["COUGH: A Challenge Dataset and 
 
 In this work, we present a large challenging dataset, **COUGH**, for COVID-19 FAQ retrieval. Specifically, similar to a standard FAQ dataset, **COUGH** consists of three parts: FAQ Bank, User Query Bank and Annotated Relevance Set. FAQ Bank contains ~16K FAQ items scraped from 55 credible websites (e.g., CDC and WHO). For evaluation, we introduce User Query Bank and Annotated Relevance Set, where the former contains 1201 human-paraphrased queries while the latter contains ~32 human-annotated FAQ items for each query.
 
+Examples from **COUGH** dataset are shown below:
+<p align="center">
+<img src="COUGH_Examples.png" alt="COUGH Examples" title="COUGH Examples" width="800"/>
+</p>
+
 ## Dataset
 **COUGH** can be freely accessed and downloaded under ```data``` directory of this repo (Delimiter used in following csv files: comma (,))
 
@@ -19,14 +24,14 @@ In this work, we present a large challenging dataset, **COUGH**, for COVID-19 FA
 *Note that, to replicate results as reported in paper, please use ```data/FAQ_Bank_eval.csv```.*
 
 ## Useful Codes
-You can refer to this [package](https://pypi.org/project/rank-bm25/) for a easy-to-use BM25 search engine.
+You can refer to this [package](https://pypi.org/project/rank-bm25/) for an easy-to-use BM25 search engine.
 
-You can refer to this [repository](https://github.com/UKPLab/sentence-transformers) for a handy SentenceBERT models.
+You can refer to this [repository](https://github.com/UKPLab/sentence-transformers) for handy SentenceBERT models.
 
 Please counsult our paper at Section 5 (Experiment) for more information about how we set up experiments and deploy baseline models.
 
 ## Citation
-Please kindly cite our paper directly if you use the datasets from this repo:
+Please kindly cite our paper if you use the **COUGH** dataset from this repo:
 ```
 @article{zhang2020cough,
       title={COUGH: A Challenge Dataset and Models for COVID-19 FAQ Retrieval}, 
