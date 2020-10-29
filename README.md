@@ -7,7 +7,7 @@ In this work, we present a large challenging dataset, **COUGH**, for COVID-19 FA
 
 Examples from **COUGH** dataset are shown below:
 <p align="center">
-<img src="COUGH_Examples.png" alt="COUGH Examples" title="COUGH Examples" width="800"/>
+<img src="COUGH_Examples.png" alt="COUGH Examples" title="COUGH Examples" width="400"/>
 </p>
 
 ## Dataset
@@ -17,7 +17,7 @@ Examples from **COUGH** dataset are shown below:
 
 - ```data/FAQ_Bank_eval.csv``` is the FAQ Bank specifically used for evaluation purpose, containing a total number of 7117 English non-Forum FAQ items.
 
-- ```data/User_Query_Bank.csv``` is the User Query Bank containing a total number of 1236 user queries (including 35 unanswerable user queries). 
+- ```data/User_Query_Bank.csv``` is the User Query Bank containing a total number of 1201 user queries. 
 
 - ```data/Annotated_Relevance_Set``` is the Annotated Relevance Set containing a total number of 39760 annotated <User Query, FAQ item> tuples.
 
