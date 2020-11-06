@@ -6,7 +6,7 @@ This repository contains the dataset for paper ["COUGH: A Challenge Dataset and 
 In this work, we present a large challenging dataset, **COUGH**, for COVID-19 FAQ retrieval. Specifically, similar to a standard FAQ dataset, **COUGH** consists of three parts: FAQ Bank, User Query Bank and Annotated Relevance Set. FAQ Bank contains ~16K FAQ items scraped from 55 credible websites (e.g., CDC and WHO). For evaluation, we introduce User Query Bank and Annotated Relevance Set, where the former contains 1201 human-paraphrased queries while the latter contains ~32 human-annotated FAQ items for each query.
 
 
-Statistics and Comparison of **COUGH** with representative counterparts
+Statistics and Comparison of **COUGH** with representative counterparts:
 
 |  | FAQIR | StackFAQ | LocalGov | Sun and Sedoc | Poliak et al. | **COUGH** (ours)
 | :------: | :------: | :------: | :----: | :------: | :------: | :----: |
