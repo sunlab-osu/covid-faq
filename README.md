@@ -3,7 +3,8 @@
 ## Introduction
 This repository contains the dataset for paper ["COUGH: A Challenge Dataset and Models for COVID-19 FAQ Retrieval"](https://arxiv.org/abs/2010.12800).
 
-In this work, we present a large challenging dataset, **COUGH**, for COVID-19 FAQ retrieval. Specifically, similar to a standard FAQ dataset, **COUGH** consists of three parts: FAQ Bank, User Query Bank and Annotated Relevance Set. FAQ Bank contains ~16K FAQ items scraped from 55 credible websites (e.g., CDC and WHO). For evaluation, we introduce User Query Bank and Annotated Relevance Set, where the former contains 1201 human-paraphrased queries while the latter contains ~32 human-annotated FAQ items for each query.
+In this work, we present a large challenging dataset, **COUGH**, for COVID-19 FAQ retrieval. Specifically, similar to a standard FAQ dataset, **COUGH** consists of three parts: FAQ Bank, User Query Bank and Annotated Relevance Set. FAQ Bank contains ~16K FAQ items scraped from 55 credible websites (e.g., CDC and WHO). For evaluation, we introduce User Query Bank and Annotated Relevance Set, where the former contains 1201 human-paraphrased queries while the latter contains ~32 human-annotated FAQ items for each query. 
+A list of websites where we collect FAQ items can be found at ```List_of_websites.txt``` (Please consult the appendix in our paper for detailed statistics).
 
 
 Statistics and Comparison of **COUGH** with representative counterparts:
@@ -28,14 +29,10 @@ Examples from **COUGH** dataset are shown below:
 <img src="COUGH_Examples.png" alt="COUGH Examples" title="COUGH Examples" width="1000"/>
 </p>
 
-A list of websites where we collect FAQ items can be found at ```List_of_websites.txt``` (Please consult the appendix in our paper for detailed statistics)
-
 ## License and Terms of Use
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-This dataset can be used for research and education purpose only. It is shared under the CC BY-NC-SA 4.0 license. 
-
-For dataset user: If you want to use the dataset for other purposes, please check the terms of use for each individual source.
+This dataset can be used for research and education purpose only. It is shared under the CC BY-NC-SA 4.0 license with attribution to the source websites listed in ```List_of_websites.txt```. If you want to use the dataset for other purposes, please check the terms of use for each individual source.
 
 ## Dataset
 **COUGH** can be freely accessed and downloaded under ```data``` directory of this repo (Delimiter used in following csv files: comma (,))
@@ -58,7 +55,7 @@ You can refer to this [repository](https://github.com/UKPLab/sentence-transforme
 Please counsult our paper at Section 5 (Experiment) for more information about how we set up experiments and deploy baseline models.
 
 ## Citation
-Please kindly cite our paper if you use the **COUGH** dataset from this repo:
+Please cite our paper if you use the **COUGH** dataset from this repo:
 ```
 @article{zhang2020cough,
       title={COUGH: A Challenge Dataset and Models for COVID-19 FAQ Retrieval}, 
