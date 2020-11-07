@@ -1,0 +1,57 @@
+Source Name, Source Url
+Arizona Health Care Cost Containment System, https://www.azahcccs.gov/AHCCCS/AboutUs/covid19FAQ.html
+Alabama Public Health, https://www.alabamapublichealth.gov/covid19/faq.html
+American Medical Association, https://www.ama-assn.org/delivering-care/public-health/covid-19-frequently-asked-questions
+California Department of Health, https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Schools-FAQ.aspx
+Government of Canada, https://www.canada.ca/en/department-national-defence/campaigns/covid-19/resuming-work/frequently-asked-questions.html
+Centers for Disease Control and Prevention, https://www.cdc.gov/coronavirus/2019-ncov/faq.html
+Children's Hospital Los Angeles, https://www.chla.org/blog/hospital-news/covid-19-information-parents-and-visitors
+Bloomberg Harvard City Leadership Initiative, https://www.cityleadership.harvard.edu/session-faqs
+Cleveland Clinic, https://my.clevelandclinic.org/landing/preparing-for-coronavirus#faq
+CNN, https://www.cnn.com/interactive/2020/health/coronavirus-questions-answers/
+Government of Colorado, https://covid19.colorado.gov/frequently-asked-questions-faq
+Delaware Department of Health, https://coronavirus.delaware.gov/frequently-asked-questions/
+U.S. Food and Drug Administration, https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2
+European Centre for Disease Prevention and Control, https://www.ecdc.europa.eu//en/all-topics-z/coronavirus/threats-and-outbreaks/covid-19/facts/q-covid-19/q-covid-19-basic-facts
+Florida Department of Health, https://floridahealthcovid19.gov/frequently-asked-questions/
+Georgia Department of Labor, https://dol.georgia.gov/covid-19-individual-faqs
+Explore Georgia, https://www.exploregeorgia.org/faq-covid-19-in-georgia
+Government of United Kingdom, https://www.gov.uk/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
+Harvard Health Publishing, https://www.health.harvard.edu/diseases-and-conditions/covid-19-basics
+Illinois Department of Public Health, https://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus/faq
+Inspire, https://www.inspire.com/search/?query=covid-19&g=&sec=All&p=1&r=20000&s=false
+Japan Health, https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html
+Japan Labor, http://roudou-bengodan.org/covid_19/
+JHU HUB, https://hub.jhu.edu/2020/03/23/how-to-self-quarantine-self-isolate/?mc_cid=0ed1a231a3&mc_eid=9687fd9d33
+JHU Medicine, https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-frequently-asked-questions
+Kids Health from Nemours, https://kidshealth.org/en/parents/coronavirus-landing-page.html?WT.ac=pairedLink
+King County, Washington, https://www.kingcounty.gov/depts/health/covid-19/FAQ.aspx
+Government of Massachusetts, https://www.mass.gov/info-details/frequently-asked-questions-about-covid-19
+Medical News Today, https://www.medicalnewstoday.com/articles/coronavirus-myths-explored
+MedHelp, https://www.medhelp.org/forums/Coronavirus/show/2203
+Government of Michigan, "https://www.michigan.gov/coronavirus/0,9753,7-406-98810-536590--,00.html"
+Minnesota Department of Health, https://www.health.state.mn.us/diseases/coronavirus/facecoverfaq.html
+New York Times, https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html
+Government of New Jersey, https://covid19.nj.gov/faqs/coronavirus-information/about-the-virus/what-should-healthcare-workers-be-wearing-to-be-protected-when-dealing-with-patients
+National Institute of Health, https://grants.nih.gov/faqs#/covid-19.htm
+Government of North Carolina, https://www.nc.gov/covid-19/staying-ahead-curve/phase-2-faqs
+Government of New York, https://www1.nyc.gov/site/immigrants/help/city-services/covid-19-frequently-asked-questions.page
+New York State Electric and Gas, http://www.op.nysed.gov/COVID-19FAQS.html#
+New York Department of Financial Services, https://www.dfs.ny.gov/consumers/coronavirus/health_insurance_faqs
+Pennsylvania Office of Unemployment Compensation, https://www.uc.pa.gov/COVID-19/Pages/UC-COVID19-FAQs.aspx
+Government of Pennsylvania, https://www.governor.pa.gov/covid-19/business-faq/
+University of Pennsylvania Health System, https://www.pennmedicine.org/coronavirus/frequently-asked-questions-about-covid-19/additional-covid-questions
+Sante Clara Department of Health, https://www.sccgov.org/sites/covid19/Pages/public-health-orders-faq.aspx
+San Mateo County Health, https://www.smchealth.org/coronavirus-frequently-asked-questions
+Texas Health Services, https://www.dshs.texas.gov/coronavirus/faq.aspx
+Tricare, https://www.tricare.mil/covid19faqs
+United Nations, https://www.un.org/en/coronavirus/covid-19-faqs
+United States Department of Agriculture, https://www.usda.gov/coronavirus/farmer-resources
+United States Department of Labor, https://www.osha.gov/SLTC/covid-19/covid-19-faq.html
+Virginia Department of Health, https://www.vdh.virginia.gov/coronavirus/general-questions/
+United States Department of Veterans Affairs, https://www.va.gov/coronavirus-veteran-frequently-asked-questions/
+Washington Department of Health, https://www.doh.wa.gov/Emergencies/NovelCoronavirusOutbreak2020COVID19/FrequentlyAskedQuestions
+World Health Organization, https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+WHO: Mythbusters, https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters
+WikiHow, https://www.wikihow.com/Identify-Coronavirus
+
