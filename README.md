@@ -30,8 +30,12 @@ Examples from **COUGH** dataset are shown below:
 
 A list of websites where we collect FAQ items can be found at ```List_of_websites.txt``` (Please consult the appendix in our paper for detailed statistics)
 
-## License
+## License and Terms of Use
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+This dataset can be used for research and education purpose only. It is shared under the CC BY-NC-SA 4.0 license. 
+
+For dataset user: If you want to use the dataset for other purposes, please check the terms of use for each individual source.
 
 ## Dataset
 **COUGH** can be freely accessed and downloaded under ```data``` directory of this repo (Delimiter used in following csv files: comma (,))
@@ -64,11 +68,3 @@ Please kindly cite our paper if you use the **COUGH** dataset from this repo:
 }  
 ```
 
-## Disclaimer
-This dataset can be used for research and education purpose only. It is shared under the CC BY-NC-SA 4.0 license. 
-
-For dataset user: If you want to use the dataset for other purposes, please check the terms of use for each individual source.
-
-For owners of websites from which **COUGH** data are collected: If you don't want to share content with us, please contact us at Xinliang (Frederick) Zhang <zhang.9975 AT osu DOT edu> or Huan Sun <sun.397 AT osu DOT edu>, and we can remove the respective information.
-
-The views, information, or opinions expressed in **COUGH** dataset are solely those of the websites from which FAQ items were scrapped and do not necessarily represent those of the authors of this paper. The primary purpose of releasing **COUGH** is to aid the development of COVID-19 FAQ retrieval systems.
