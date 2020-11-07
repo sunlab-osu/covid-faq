@@ -43,7 +43,7 @@ This dataset can be used for research and education purpose only. It is shared u
 
 - [```data/User_Query_Bank.csv```](data/User_Query_Bank.csv) is the User Query Bank containing a total number of 1201 user queries. 
 
-- [```data/Annotated_Relevance_Set```](data/Annotated_Relevance_Set) is the Annotated Relevance Set containing a total number of 39760 annotated <User Query, FAQ item> tuples.
+- [```data/Annotated_Relevance_Set.csv```](data/Annotated_Relevance_Set.csv) is the Annotated Relevance Set containing a total number of 39760 annotated <User Query, FAQ item> tuples.
 
 *Note that, to replicate results as reported in paper, please use [```data/FAQ_Bank_eval.csv```](data/FAQ_Bank_eval.csv).*
 
