@@ -57,11 +57,18 @@ Please counsult our paper at Section 5 (Experiment) for more information about h
 ## Citation
 Please cite our paper if you use the **COUGH** dataset from this repo:
 ```
-@article{zhang2020cough,
-      title={COUGH: A Challenge Dataset and Models for COVID-19 FAQ Retrieval}, 
-      author={Xinliang (Frederick) Zhang and Heming Sun and Xiang Yue and Emmett Jesrani and Simon Lin and Huan Sun},
-      journal={arXiv preprint arXiv:2010.12800},
-      year={2020}
-}  
+@inproceedings{zhang2021cough,
+    title = "{COUGH}: A Challenge Dataset and Models for {COVID}-19 {FAQ} Retrieval",
+    author = "Zhang, Xinliang Frederick  and
+      Sun, Heming  and
+      Yue, Xiang  and
+      Lin, Simon  and
+      Sun, Huan",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2021",
+    year = "2021",
+    pages = "3759--3769",
+}
 ```
+
+
 
